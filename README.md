@@ -1,2 +1,2 @@
-# CaeserCipher
-Basic caeser cipher text encoder written in Ruby
+# Ruby Exercises
+Collection of mini projects done in the Ruby Course of THe Odin Project
