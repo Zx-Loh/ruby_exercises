@@ -1,2 +1,2 @@
 # Ruby Exercises
-Collection of mini projects done in the Ruby Course of THe Odin Project
+Collection of mini projects done in the Ruby Course of The Odin Project
